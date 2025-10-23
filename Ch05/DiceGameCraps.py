@@ -1,5 +1,4 @@
 """Simulating the dice game Craps."""
-import random
 import matplotlib.pyplot as plt
 import numpy as np
 import random 
